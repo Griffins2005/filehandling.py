@@ -1,0 +1,6 @@
+Hello, this is line 1
+12345
+This is line 3 with some numbers: 67890
+This is line 4
+Another line added, line 5
+Last line, line 6
